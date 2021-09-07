@@ -1,2 +1,2 @@
-# d-DataStructure
+# DataStructure
 practice for DS
