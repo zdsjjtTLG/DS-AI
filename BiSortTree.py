@@ -75,7 +75,6 @@ class BiSortTree(object):
         print(root.value)
 
 
-
 if __name__ == '__main__':
     bt = BiSortTree()
     bt.insert_a(12)
